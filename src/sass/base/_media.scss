@@ -1,0 +1,97 @@
+@media (max-width: 768px){
+    .header__official {
+        display: none;
+    }
+    .header__phone {
+        font-size: 16px;
+    }
+
+    .promo{
+        padding: 21px 20px 93px;
+    }
+    .promo__header {
+        font-size: 35px;
+    }
+    .promo__subheader{
+        font-size: 19px;
+    }
+
+    .advantage__wrapper{
+        margin-top: 40px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .advantage__item{
+        margin-top: 24px;
+    }
+    .advantage__subtitle {
+        margin-top: 10px;
+    }
+
+    .title_left{
+        font-size: 18px;
+    }
+
+    .consultation{
+        min-height: 555px;
+        padding: 80px 20px 75px;
+    }
+    .consultation__descr{
+        font-size: 15px;
+    } 
+}
+@media (max-width: 425px){
+    .header{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .header__contacts{
+        margin-top: 20px;
+        align-items: center;
+    }
+    .promo__wrapper{
+        align-items: center;
+        margin-top: 35px;
+    }
+    .promo__icons{
+        justify-content: center;
+        margin-top: 40px;
+        width: 300px;
+    }
+    .promo__header{
+        font-size: 25px;
+    } 
+    .promo__subheader{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .title {
+        font-size: 24px;
+    }
+    .title_left{
+        font-size: 14px;
+    }
+
+    .title_size_s{
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .button{
+        width: 300px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .consultation{
+        min-height: 430px;
+        padding: 50px 0 45px;
+    }
+    .consultation__descr{
+        font-size: 13px;
+        text-align: center;
+    }
+    .feed-form_size_s{
+        margin: 0 auto;
+    }
+}
