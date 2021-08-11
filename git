@@ -1,0 +1,35 @@
+[33mcommit 34a0cdf6ce25a4680f8d9ba182a6824c149133e1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: sasholk <iccc97@gmail.com>
+Date:   Wed Aug 11 18:57:30 2021 +0300
+
+    minified files and adaptived site
+
+[33mcommit 9a8a5c51c1981525ab607d1f2e2e80f6bc3c911b[m
+Author: sasholk <iccc97@gmail.com>
+Date:   Wed Aug 11 17:09:53 2021 +0300
+
+    validate index.html
+
+[33mcommit a1e3c55944ac5c8bdd628bd6fbdcb57d374cfe89[m
+Author: sasholk <iccc97@gmail.com>
+Date:   Wed Aug 11 13:18:02 2021 +0300
+
+    added mailer
+
+[33mcommit fb22a6d60616eaf2ca92ca60bf14f174ff8e11c8[m
+Author: sasholk <iccc97@gmail.com>
+Date:   Tue Aug 10 21:13:20 2021 +0300
+
+    added footer, created and validated the modal-forms
+
+[33mcommit e550731ad82c758fba8556fa10fc737526131f3b[m
+Author: sasholk <iccc97@gmail.com>
+Date:   Mon Aug 9 16:21:26 2021 +0300
+
+    added and adaptived 3 sections(carousel, catalog, feedbacks)
+
+[33mcommit 1c26a531aa004861a6e3404030758e390eefeb53[m
+Author: sasholk <iccc97@gmail.com>
+Date:   Sun Aug 8 16:17:55 2021 +0300
+
+    init commit
