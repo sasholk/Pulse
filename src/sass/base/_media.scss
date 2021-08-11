@@ -76,6 +76,22 @@
         width: 100px;
         height: 100px;
     }
+
+    .footer{
+        height: 500px;
+    }
+    .footer iframe{
+        height: 500px;
+    }
+    .footer__info{
+        height: 220px;
+    }
+    .footer__addr{
+        margin-bottom: 26px;
+    }
+    .footer__phone{
+        margin-bottom: 28px;
+    }
 }
 @media (max-width: 425px){
     .header{
@@ -146,5 +162,23 @@
     }
     .catalog-item__footer{
         flex-wrap: wrap;
+    }
+    
+    .feedbacks__descr{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .footer__info{
+        height: 160px;
+        width: 310px;
+        padding: 20px 20px 25px;
+    }
+    .footer__addr{
+        margin-bottom: 14px;
+        font-size: 15px;
+    }
+    .footer__phone{
+        margin-bottom: 14px;
     }
 }
